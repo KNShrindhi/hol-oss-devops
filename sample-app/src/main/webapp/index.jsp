@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Sample Java application, there's not much to see here...</h1>
+<h1>Sample Java application, successfully integrated with VSTS, Jenkins and Docker...</h1>
 </body>
 </html>
